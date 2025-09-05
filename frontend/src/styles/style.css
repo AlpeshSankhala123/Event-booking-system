@@ -1,0 +1,25 @@
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+h1,
+h2,
+h3 {
+    color: #333;
+}
+
+button {
+    padding: 8px 14px;
+    margin-top: 10px;
+    cursor: pointer;
+    border: none;
+    background: #007bff;
+    color: white;
+    border-radius: 4px;
+}
+
+button:hover {
+    background: #0056b3;
+}
